@@ -1,0 +1,7 @@
+   {
+     "version": "1.1.0",
+     "message": "發現新版本 1.1.0，是否更新？",
+     "release_notes": "此版本修復了界面問題並改進了性能",
+     "update_file_url": "https://github.com/您的用戶名/Messenger_injector_X_Updates/raw/main/releases/v1.1.0/update.zip",
+     "date": "2023-12-25"
+   }
